@@ -53,7 +53,7 @@
 
 ### Level 3
 - Add delete functionality:
-	- [ ] Delete for Each User: Implement a delete feature for each user entry
+	- [✔] Delete for Each User: Implement a delete feature for each user entry
 
 ![image](https://github.com/impressai/frontend_task/assets/28563570/c3da4f55-6e89-47cc-bbde-35e3c20f80f6)
 
