@@ -1,0 +1,22 @@
+.header-box {
+  display: flex;
+  justify-content: center;
+  margin-top: 5%;
+  align-items: center;
+}
+
+.row {
+  margin-top: 5%;
+}
+
+.button {
+  cursor: pointer;
+  margin-top: 5%;
+  display: block;
+  margin: 5% auto;
+}
+
+.table_output{
+    justify-content: center;
+    display: flex;
+}
